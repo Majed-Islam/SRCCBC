@@ -96,9 +96,9 @@ font-family: 'Rubik Dirt', cursive;
  
  .profile h1 {
 	 width: 100%;
-	 margin-top:30%;
+	 margin-top:25%;
 	 color: #fff;
-	 font-size: 3vw;
+	 font-size: 2.5vw;
 	 position: absolute;
 	 text-align: center;
 	 font-family: roboto;
@@ -106,9 +106,9 @@ font-family: 'Rubik Dirt', cursive;
  .profile h2 {
 	 margin:60% 0 0 18%;
 	 color: #fff;
-	 font-size: 1.2vw;
+	 font-size: 1.5vw;
 	 width: 70%;
-	 letter-spacing: 5px;
+	 letter-spacing: 4px;
 	line-height: 17px;
 	 text-align: center;
 	font-family: roboto;
